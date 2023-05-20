@@ -316,16 +316,33 @@
 })(jQuery)
 
 var gh = [
-    "https://i.postimg.cc/NF4pP1RD/08-Movie-4-2of2.gif",
-    "https://i.postimg.cc/HkH7kqDr/10.gif",
-    "https://i.postimg.cc/sfkhtBT9/13.gif",
-    "https://i.postimg.cc/rmvDXbNF/14.gif",
-    "https://i.postimg.cc/DzwJq1zF/15.gif",
-    "https://i.postimg.cc/263k5wSb/21-TOKI-HD-M-21of24.gif",
-    "https://i.postimg.cc/KYGc6FX5/22-23-03-07-Power-17of20.gif",
-    "https://i.postimg.cc/HsbyHpKG/23-01-17-13of19.gif",
-    "https://i.postimg.cc/Xv1ZxXZ5/miyu-v3-3.gif",
-    "https://i.postimg.cc/3xwzmRny/106657085.gif"
+    "https://i.postimg.cc/dVWtxvhH/0.gif",
+    "https://i.postimg.cc/Qxf3XmjV/1.gif",
+    "https://i.postimg.cc/W14srK5M/2.gif",
+    "https://i.postimg.cc/zXzNZ6Z9/3.gif",
+    "https://i.postimg.cc/PqgHgqT4/4.gif",
+    "https://i.postimg.cc/brjztw5J/5.gif",
+    "https://i.postimg.cc/2875nnrf/6.gif",
+    "https://i.postimg.cc/L848Dh8g/7.gif",
+    "https://i.postimg.cc/Jnj8MWhW/8.gif",
+    "https://i.postimg.cc/prxHd195/9.gif",
+    "https://i.postimg.cc/bJHz1225/10.gif",
+    "https://i.postimg.cc/rmLVd9zW/11.gif",
+    "https://i.postimg.cc/vZkHyys0/12.gif",
+    "https://i.postimg.cc/fbYZh05b/13.gif",
+    "https://i.postimg.cc/1XmyB5G3/14.gif",
+    "https://i.postimg.cc/02x0Pgfd/15.gif",
+    "https://i.postimg.cc/3r2Fsrgx/16.gif",
+    "https://i.postimg.cc/ZnPPpjTd/17.gif",
+    "https://i.postimg.cc/nckYLdS8/18.gif",
+    "https://i.postimg.cc/c13FdBNZ/19.gif",
+    "https://i.postimg.cc/vHd3TxQn/20.gif",
+    "https://i.postimg.cc/xTygzjC4/21.gif",
+    "https://i.postimg.cc/43n1qz1D/22.gif",
+    "https://i.postimg.cc/hjd1Pc6M/23.gif",
+    "https://i.postimg.cc/FzXgYwQv/24.gif",
+    "https://i.postimg.cc/N0Vxc5J5/25.gif",
+    "https://i.postimg.cc/FHrpgtks/26.gif"
 ]
 
 var ye = 0,
